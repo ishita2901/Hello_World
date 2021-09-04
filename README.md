@@ -1,2 +1,2 @@
 # Hello_World
-Just learning uploading on github
+Just learning to upload on github
